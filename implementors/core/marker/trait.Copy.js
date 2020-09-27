@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["polars"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/marker/trait.Copy.html\" title=\"trait core::marker::Copy\">Copy</a> for <a class=\"enum\" href=\"polars/chunked_array/ops/enum.FillNoneStrategy.html\" title=\"enum polars::chunked_array::ops::FillNoneStrategy\">FillNoneStrategy</a>","synthetic":false,"types":["polars::chunked_array::ops::FillNoneStrategy"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

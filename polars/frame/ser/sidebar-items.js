@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["finish_reader",""]],"mod":[["csv","(De)serializing CSV files"],["ipc","(De)serializing Arrows IPC format."],["json","(De)serialize JSON files."],["parquet","Reading Apache parquet files."]],"trait":[["ArrowReader",""],["SerReader",""],["SerWriter",""]]});

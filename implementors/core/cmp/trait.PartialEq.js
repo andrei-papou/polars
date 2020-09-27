@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["polars"] = [{"text":"impl&lt;'a&gt; <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/cmp/trait.PartialEq.html\" title=\"trait core::cmp::PartialEq\">PartialEq</a>&lt;<a class=\"enum\" href=\"polars/datatypes/enum.AnyType.html\" title=\"enum polars::datatypes::AnyType\">AnyType</a>&lt;'a&gt;&gt; for <a class=\"enum\" href=\"polars/datatypes/enum.AnyType.html\" title=\"enum polars::datatypes::AnyType\">AnyType</a>&lt;'a&gt;","synthetic":false,"types":["polars::datatypes::AnyType"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
